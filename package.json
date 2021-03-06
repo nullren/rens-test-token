@@ -1,7 +1,6 @@
 {
-  "name": "rens-tokenator",
+  "name": "rens-test-token",
   "version": "0.0.0",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "deploy": "dotenv -- hardhat run scripts/deploy.js --network ropsten"
