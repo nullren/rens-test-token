@@ -1,0 +1,9 @@
+{
+  "name": "rens-tokenator",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.1.1"
+  }
+}
